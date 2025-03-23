@@ -1,0 +1,14 @@
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\obj\Debug\net9.0\cw3_projekt_1_APBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\obj\Debug\net9.0\cw3_projekt_1_APBD.AssemblyInfoInputs.cache
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\obj\Debug\net9.0\cw3_projekt_1_APBD.AssemblyInfo.cs
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\obj\Debug\net9.0\cw3_projekt_1_APBD.csproj.CoreCompileInputs.cache
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\bin\Debug\net9.0\cw3_projekt_1_APBD.exe
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\bin\Debug\net9.0\cw3_projekt_1_APBD.deps.json
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\bin\Debug\net9.0\cw3_projekt_1_APBD.runtimeconfig.json
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\bin\Debug\net9.0\cw3_projekt_1_APBD.dll
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\bin\Debug\net9.0\cw3_projekt_1_APBD.pdb
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\obj\Debug\net9.0\cw3_projekt_1_APBD.dll
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\obj\Debug\net9.0\refint\cw3_projekt_1_APBD.dll
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\obj\Debug\net9.0\cw3_projekt_1_APBD.pdb
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\obj\Debug\net9.0\cw3_projekt_1_APBD.genruntimeconfig.cache
+C:\Users\norbe\OneDrive\Pulpit\STUDIA\materialy\sem4\apbd OBIERALNY\cw3_projekt_1_APBD\cw3_projekt_1_APBD\obj\Debug\net9.0\ref\cw3_projekt_1_APBD.dll
